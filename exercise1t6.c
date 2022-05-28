@@ -1,6 +1,7 @@
 //bubble sort //
 
 #include<stdio.h>
+#include<conio.h>
 
 //global variable section//
 void swap(int* xp, int* yp)
